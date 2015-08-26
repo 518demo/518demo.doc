@@ -1,17 +1,12 @@
-.. May 18 Democratic Uprasing documentation master file, created by
-   sphinx-quickstart on Tue Aug 25 14:59:58 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to May 18 Democratic Uprasing's documentation!
-======================================================
-
-Contents:
+The May 18 Democratic Uprising
+==============================
 
 .. toctree::
    :maxdepth: 2
+   :caption: Table of Contents
+   :name: maintoc
 
-
+   video-record
 
 Indices and tables
 ==================
@@ -19,4 +14,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
