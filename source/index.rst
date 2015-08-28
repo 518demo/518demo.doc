@@ -1,5 +1,5 @@
-The May 18 Democratic Uprising
-==============================
+The May 18th Democratic Uprising
+================================
 
 .. toctree::
    :maxdepth: 2
@@ -7,6 +7,8 @@ The May 18 Democratic Uprising
    :name: maintoc
 
    video-record
+   testimonies
+   daily-report
 
 Indices and tables
 ==================
