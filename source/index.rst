@@ -6,7 +6,6 @@ The May 18th Democratic Uprising
    :caption: Table of Contents
    :name: maintoc
 
-   video-record
    testimonies
    daily-report
 
